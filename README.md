@@ -194,8 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#-troubleshooting) section
-2. Open an [Issue](https://github.com/yourusername/youtube-video-extractor/issues)
-3. Make sure Python and Chrome are up to date
+2. Make sure Python and Chrome are up to date
 
 ## 🔄 Updates
 
