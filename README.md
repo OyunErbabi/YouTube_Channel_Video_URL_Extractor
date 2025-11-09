@@ -37,7 +37,7 @@ Extract **ALL** video URLs from any YouTube channel with a single click! No API 
    ```
 
 2. **Run the program**
-   - **Windows**: Double-click `INSTALL_AND_RUN.bat`
+   - **Windows**: Double-click `Run.bat`
    - **Manual**: Run `python extractor.py`
 
 3. **Extract videos**
@@ -68,7 +68,7 @@ https://www.youtube.com/oyunerbabi
 
 **Output:**
 ```
-oyunerbabiLinks.txt
+oyunerbabi_Links.txt
 ```
 
 **File Contents:**
@@ -77,16 +77,6 @@ https://www.youtube.com/watch?v=VIDEO_ID_1
 https://www.youtube.com/watch?v=VIDEO_ID_2
 https://www.youtube.com/watch?v=VIDEO_ID_3
 ...
-```
-
-## 📁 Project Structure
-
-```
-youtube-video-extractor/
-├── extractor.py              # Main program file
-├── INSTALL_AND_RUN.bat       # One-click installer & launcher (Windows)
-├── requirements.txt          # Python dependencies
-└── README.md                 # This file
 ```
 
 ## 🔧 Manual Installation
@@ -134,7 +124,7 @@ python extractor.py
 - Don't rename `extractor.py`
 
 ### Program doesn't start
-- Right-click `INSTALL_AND_RUN.bat`
+- Right-click `Run.bat`
 - Select "Run as administrator"
 
 ### Chrome version error
